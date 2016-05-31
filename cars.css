@@ -1,0 +1,31 @@
+﻿#r1{
+height:100%;
+}
+#r2{
+height:10%;
+background-color:blue;
+font-family:Lucida Console;
+}
+#r3{
+height:90%;
+}
+#r4{
+height:10%;
+}
+#r5{
+height:60%;
+}
+#r6{
+height:10%;
+}
+#r7{
+height:20%;
+}
+#i1{
+width:500px;
+height:300px;
+}
+*{
+font-size:15px;
+font-familly:Comic Sans MS;
+}
